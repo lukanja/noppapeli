@@ -1,1 +1,3 @@
 # noppapeli
+
+Versionhallinnan harjoitus.
