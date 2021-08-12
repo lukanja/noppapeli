@@ -1,0 +1,13 @@
+C:\Users\tekot\source\repos\noppapeli\noppapeli\bin\Debug\netcoreapp3.1\noppapeli.exe
+C:\Users\tekot\source\repos\noppapeli\noppapeli\bin\Debug\netcoreapp3.1\noppapeli.deps.json
+C:\Users\tekot\source\repos\noppapeli\noppapeli\bin\Debug\netcoreapp3.1\noppapeli.runtimeconfig.json
+C:\Users\tekot\source\repos\noppapeli\noppapeli\bin\Debug\netcoreapp3.1\noppapeli.runtimeconfig.dev.json
+C:\Users\tekot\source\repos\noppapeli\noppapeli\bin\Debug\netcoreapp3.1\noppapeli.dll
+C:\Users\tekot\source\repos\noppapeli\noppapeli\bin\Debug\netcoreapp3.1\noppapeli.pdb
+C:\Users\tekot\source\repos\noppapeli\noppapeli\obj\Debug\netcoreapp3.1\noppapeli.csproj.AssemblyReference.cache
+C:\Users\tekot\source\repos\noppapeli\noppapeli\obj\Debug\netcoreapp3.1\noppapeli.AssemblyInfoInputs.cache
+C:\Users\tekot\source\repos\noppapeli\noppapeli\obj\Debug\netcoreapp3.1\noppapeli.AssemblyInfo.cs
+C:\Users\tekot\source\repos\noppapeli\noppapeli\obj\Debug\netcoreapp3.1\noppapeli.csproj.CoreCompileInputs.cache
+C:\Users\tekot\source\repos\noppapeli\noppapeli\obj\Debug\netcoreapp3.1\noppapeli.dll
+C:\Users\tekot\source\repos\noppapeli\noppapeli\obj\Debug\netcoreapp3.1\noppapeli.pdb
+C:\Users\tekot\source\repos\noppapeli\noppapeli\obj\Debug\netcoreapp3.1\noppapeli.genruntimeconfig.cache
